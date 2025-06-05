@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm <span style="color:#3C9EE7;">Govardhan</span></h1>
-<h3 align="center">🚀 Passionate Developer | 📘 CS Graduate | 🔍 Job Seeker for Product-Based Roles</h3>
+<h3 align="center">🚀 Passionate Software Developer | 📘 CS Graduate | 🔍 Job Seeker for Product-Based Roles</h3>
 
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" /></a>
@@ -18,7 +18,7 @@
 💻 Focused on **React**, **Node.js**, and **MERN Stack**  
 🚀 Actively seeking roles in **product-based companies** and **startups**  
 🧠 Always curious to learn new technologies & build meaningful projects  
-📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+📫 Reach me at: [govukatta19@gmail.com](mailto:govukatta19@gmail.com)
 
 ---
 
@@ -52,10 +52,10 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KattaGovardhan&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KattaGovardhan&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=KattaGovardhan&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
 ---
