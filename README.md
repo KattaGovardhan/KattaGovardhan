@@ -12,7 +12,7 @@
 - 🎓 CS Graduate from GITAM University (2024)
 - 🌱 Currently learning: DSA, React, System Design
 - 💼 Looking for opportunities in product-based companies/startups
-- 👨‍💻 All my projects are available at [GitHub](https://github.com/yourusername)
+- 👨‍💻 All my projects are available at [GitHub](https://github.com/KattaGovardhan)
 - 📫 Reach me: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
 
 ---
@@ -46,11 +46,11 @@ Visualizes your GitHub profile metrics with charts and stats using GitHub API + 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KattaGovardhan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KattaGovardhan&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KattaGovardhan&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
