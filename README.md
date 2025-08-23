@@ -39,15 +39,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| 💻 Project | 🔗 Demo | 📂 Code |
-|-----------|--------|---------|
-| **Task Manager App** – Full-stack MERN app with real-time task updates & JWT auth | [Live](https://taskmanager.netlify.app) | [GitHub](https://github.com/yourusername/task-manager) |
-| **Portfolio Website** – Personal site showcasing projects, resume, and blog | [Live](https://govardhan-portfolio.netlify.app) | [GitHub](https://github.com/yourusername/portfolio) |
-| **GitHub Stats Viewer** – Visual GitHub metrics using GitHub API + Chart.js | — | [GitHub](https://github.com/yourusername/github-profile-stats) |
-
----
 
 ### 📊 GitHub Insights
 
