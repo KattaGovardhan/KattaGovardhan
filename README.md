@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm <span style="color:#3C9EE7;">Govardhan</span></h1>
-<h3 align="center">🚀 Passionate Software Developer | 📘 CS Graduate | 🔍 Job Seeker for Product-Based Roles</h3>
+<h3 align="center">🚀 Passionate Software Developer | 📘 CS Graduate </h3>
 
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" /></a>
@@ -18,7 +18,7 @@
 💻 Focused on **React**, **Node.js**, and **MERN Stack**  
 🚀 Actively seeking roles in **product-based companies** and **startups**  
 🧠 Always curious to learn new technologies & build meaningful projects  
-📫 Reach me at: [govukatta19@gmail.com](mailto:govukatta19@gmail.com)
+📫 Reach me at: [govardhankatta.dev@gmail.com](mailto:govardhankatta.dev@gmail.com)
 
 ---
 
